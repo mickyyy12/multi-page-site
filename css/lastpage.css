@@ -1,0 +1,419 @@
+                .img__newpage {
+                    background-image: url(/img/lastimg.png);
+                    width: 1580px;
+                    height: 752px;
+                    opacity: 70%;
+                    margin-left: 0px;
+                    position: absolute;
+                    top: 18%;
+                }
+                
+                .img_text_1_3 {
+                    position: absolute;
+                    height: 59px;
+                    width: 1027px;
+                    font-size: 45px;
+                    font-family: 'Roboto', sans-serif;
+                    left: 36.32%;
+                    right: 14.68%;
+                    top: 43.46%;
+                    color: white;
+                    align-items: center;
+                }
+                
+                .img_text2_4 {
+                    width: 1057px;
+                    height: 59px;
+                    font-size: 25px;
+                    font-family: 'Roboto';
+                    color: white;
+                    left: 23.84%;
+                    right: 36.84%;
+                    top: 55.02%;
+                    position: absolute;
+                }
+                
+                .about_compamy {
+                    position: absolute;
+                    width: 361px;
+                    height: 41px;
+                    top: 1050px;
+                    left: 260px;
+                    font-size: 35px;
+                    font-family: 'Roboto';
+                    color: #26A1E4;
+                }
+                
+                .vector_red__new {
+                    position: absolute;
+                    top: 1080px;
+                    left: 260px;
+                }
+                
+                .aboutaaaaa_company_text {
+                    position: absolute;
+                    width: 1212px;
+                    height: 687px;
+                    top: 1100px;
+                    left: 220px;
+                    font-size: 16px;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                }
+                
+                .contact_him {
+                    position: absolute;
+                    width: 361px;
+                    height: 41px;
+                    top: 1750px;
+                    left: 260px;
+                    font-size: 35px;
+                    font-family: 'Roboto';
+                    color: #26A1E4
+                }
+                
+                .vector__red__new {
+                    position: absolute;
+                    top: 1780px;
+                    left: 260px;
+                }
+                
+                .contact__him {
+                    width: 557px;
+                    height: 211px;
+                    position: absolute;
+                    top: 1900px;
+                    left: 260px;
+                }
+                
+                .full__name {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 28px;
+                    top: 10px;
+                    left: 290px;
+                    width: 266px;
+                    height: 44px;
+                }
+                
+                .post {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 22px;
+                    top: 40px;
+                    left: 290px;
+                    width: 266px;
+                    height: 44px;
+                    color: #26A1E4;
+                }
+                
+                .coopertion {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 20px;
+                    top: 130px;
+                    left: 290px;
+                    width: 300px;
+                    height: 24px;
+                }
+                
+                .coopertion_email {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 22px;
+                    top: 150px;
+                    left: 290px;
+                    width: 300px;
+                    height: 24px;
+                    color: #26A1E4;
+                }
+                
+                .contact__him1 {
+                    width: 557px;
+                    height: 211px;
+                    position: absolute;
+                    top: 1900px;
+                    left: 560px;
+                }
+                
+                .manlaptop {
+                    position: absolute;
+                    top: 10px;
+                    left: 430px;
+                }
+                
+                .full__name1 {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 28px;
+                    top: 10px;
+                    left: 690px;
+                    width: 266px;
+                    height: 44px;
+                }
+                
+                .post1 {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 22px;
+                    top: 40px;
+                    left: 690px;
+                    width: 266px;
+                    height: 44px;
+                    color: #26A1E4;
+                }
+                
+                .coopertion1 {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 20px;
+                    top: 130px;
+                    left: 690px;
+                    width: 300px;
+                    height: 24px;
+                }
+                
+                .coopertion_email1 {
+                    position: absolute;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    font-size: 22px;
+                    top: 150px;
+                    left: 690px;
+                    width: 300px;
+                    height: 24px;
+                    color: #26A1E4;
+                }
+                
+                .last_page_footer {
+                    position: absolute;
+                    background-color: #26A1E4;
+                    top: 2230px;
+                    width: 1580px;
+                    height: 550px;
+                }
+                
+                .adress_white {
+                    position: absolute;
+                    top: 150px;
+                    left: 290px;
+                }
+                
+                .adress_moscow {
+                    position: absolute;
+                    top: 140px;
+                    left: 350px;
+                    color: white;
+                    font-size: 16px;
+                    font-family: monospace;
+                }
+                
+                .number__4600 {
+                    position: absolute;
+                    top: 250px;
+                    left: 290px;
+                }
+                
+                .number_4600 {
+                    position: absolute;
+                    top: 240px;
+                    left: 350px;
+                    color: white;
+                    font-size: 16px;
+                    font-family: monospace;
+                }
+                
+                .white_mail {
+                    position: absolute;
+                    top: 350px;
+                    left: 290px;
+                }
+                
+                .white__mail {
+                    position: absolute;
+                    top: 340px;
+                    left: 350px;
+                    color: white;
+                    font-size: 16px;
+                    font-family: monospace;
+                }
+                
+                .white_whirte {
+                    position: absolute;
+                    top: 30px;
+                    left: 750px;
+                }
+                
+                .white__whirte {
+                    position: absolute;
+                    color: white;
+                    font-size: 20px;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                    top: 70px;
+                    width: 146px;
+                    height: 21px;
+                }
+                
+                .full_name_white {
+                    position: absolute;
+                    top: 100px;
+                    width: 558px;
+                    height: 52px;
+                    border: 2px solid white;
+                    background-color: white;
+                    color: #BEBEBE;
+                    font-size: 18px;
+                }
+                
+                .e_mail_white {
+                    position: absolute;
+                    top: 165px;
+                    width: 558px;
+                    height: 52px;
+                    border: 2px solid white;
+                    background-color: white;
+                    color: #BEBEBE;
+                    font-size: 18px;
+                }
+                
+                .u_messeg {
+                    position: absolute;
+                    top: 230px;
+                    width: 558px;
+                    height: 168px;
+                    border: 2px solid white;
+                    background-color: white;
+                    color: #BEBEBE;
+                    font-size: 18px;
+                }
+                
+                .send_pink {
+                    position: absolute;
+                    top: 398px;
+                    width: 558px;
+                    height: 56px;
+                    border: 2px solid #ff5384;
+                    background-color: #ff5384;
+                    color: white;
+                    font-size: 18px;
+                    align-items: center;
+                }
+                
+                .wrapper_maps {
+                    position: absolute;
+                    top: 2780px;
+                }
+                
+                .hii_bitch {
+                    width: 1580px;
+                    height: 363px;
+                    background-color: #161616;
+                    display: grid;
+                    grid-template-rows: 1fr 1fr 1fr;
+                    position: absolute;
+                    top: 3143px;
+                }
+                
+                .about_page {
+                    position: absolute;
+                    color: #22A7f0;
+                    font-family: 'Roboto';
+                    font-size: 23px;
+                    top: 50px;
+                    left: 217px;
+                }
+                
+                .about_text_page {
+                    font-family: 'Roboto';
+                    font-size: 15px;
+                    color: white;
+                    position: absolute;
+                    top: 90px;
+                    left: 217px;
+                }
+                
+                .read_news_page {
+                    position: absolute;
+                    color: #22A7f0;
+                    font-family: 'Roboto';
+                    font-size: 23px;
+                    top: 50px;
+                    left: 630px;
+                }
+                
+                .read_news_text_page {
+                    font-family: 'Roboto';
+                    font-size: 15px;
+                    color: white;
+                    position: absolute;
+                    top: 90px;
+                    left: 630px;
+                }
+                
+                .adress_contact_page {
+                    position: absolute;
+                    color: #22A7f0;
+                    font-family: 'Roboto';
+                    font-size: 23px;
+                    top: 50px;
+                    left: 1013px;
+                }
+                
+                .placeholder_page {
+                    top: 90px;
+                    left: 1013px;
+                    position: absolute;
+                }
+                
+                .adress_city_page {
+                    position: absolute;
+                    top: 90px;
+                    left: 1050px;
+                    color: white;
+                    font-family: 'Roboto';
+                    font-size: 15px;
+                }
+                
+                .telephone_page {
+                    top: 130px;
+                    left: 1013px;
+                    position: absolute;
+                }
+                
+                .telephone_number_page {
+                    position: absolute;
+                    top: 130px;
+                    left: 1050px;
+                    color: white;
+                    font-family: 'Roboto';
+                    font-size: 15px;
+                }
+                
+                .info_mail_page {
+                    top: 170px;
+                    left: 1013px;
+                    position: absolute;
+                }
+                
+                .info_mail_text_page {
+                    position: absolute;
+                    top: 170px;
+                    left: 1050px;
+                    color: white;
+                    font-family: 'Roboto';
+                    font-size: 15px;
+                }
+                
+                .last_footer2_page {
+                    position: absolute;
+                    width: 1580px;
+                    height: 83px;
+                    background-color: black;
+                    top: 300px;
+                }
+                
+                .last_footer_text_page {
+                    position: absolute;
+                    top: 41.5px;
+                    left: 650px;
+                    font-size: 14px;
+                    color: white;
+                }

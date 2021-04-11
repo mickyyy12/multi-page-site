@@ -1,0 +1,291 @@
+.header {
+    width: 1580px;
+    height: 176px;
+    Opacity: 100%;
+}
+
+.web {
+    position: absolute;
+    left: 8%;
+    right: 85.89%;
+    top: 3.50%;
+    bottom: 96.11%;
+}
+
+.gototop {
+    position: absolute;
+    left: 13.7%;
+    right: 60.06%;
+    top: 5.67%;
+    bottom: 96.46%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    width: 304px;
+    height: 68px;
+}
+
+.nav {
+    position: absolute;
+    width: 618px;
+    Height: 21px;
+    left: 30.39%;
+    right: 9.49%;
+    top: 6.3%;
+    bottom: 97.12%;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    line-height: 25px;
+    color: #26A1E4;
+}
+
+.nav1 {
+    margin: 8px;
+    font-size: 25px;
+}
+
+.nav2 {
+    margin: 8px;
+    font-size: 25px;
+}
+
+.nav3 {
+    margin: 8px;
+    font-size: 25px;
+}
+
+.nav4 {
+    margin: 8px;
+    font-size: 25px;
+}
+
+.img__1page {
+    background-image: url(/img/photo1.png);
+    width: 1580px;
+    height: 752px;
+    opacity: 70%;
+    margin-left: 0px;
+}
+
+.img__text {
+    position: absolute;
+    height: 59px;
+    width: 1027px;
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    left: 16.32%;
+    right: 14.68%;
+    top: 43.46%;
+    color: white;
+    align-items: center;
+}
+
+.img__text1 {
+    width: 1057px;
+    height: 59px;
+    font-size: 25px;
+    font-family: 'Roboto';
+    color: white;
+    position: absolute;
+    left: 23.84%;
+    right: 36.84%;
+    top: 50.02%;
+}
+
+.button_ {
+    height: 44px;
+    width: 145px;
+    position: absolute;
+    left: 30.44%;
+    right: 30.38%;
+    top: 63.02%;
+    border: 2px solid #FFFFFF;
+    align-items: center;
+    opacity: 100%;
+    font-size: 30px;
+    font-family: 'Roboto';
+}
+
+.services {
+    width: 1580px;
+    Height: 610px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 10px;
+}
+
+.website {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg1 {
+    position: absolute;
+    left: 250px;
+    top: 980px;
+}
+
+.gridtex1 {
+    position: absolute;
+    top: 1090px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 90px;
+}
+
+.gridtex-1 {
+    position: absolute;
+    top: 1140px;
+    left: 105px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.audience {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg2 {
+    position: absolute;
+    left: 770px;
+    top: 980px;
+}
+
+.gridtext2 {
+    position: absolute;
+    top: 1084px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 690px;
+}
+
+.gridtext-2 {
+    position: absolute;
+    top: 1140px;
+    left: 715px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.statistics {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg3 {
+    position: absolute;
+    left: 1278px;
+    top: 975px;
+}
+
+.gridtext3 {
+    position: absolute;
+    top: 1084px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 1172px;
+}
+
+.gridtext-3 {
+    position: absolute;
+    top: 1135px;
+    left: 1189px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.network {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg4 {
+    position: absolute;
+    left: 250px;
+    top: 1400px;
+}
+
+.gridtext4 {
+    position: absolute;
+    top: 1510px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 135px;
+}
+
+.gridtext-4 {
+    position: absolute;
+    top: 1555px;
+    left: 135px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.budget {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg5 {
+    position: absolute;
+    left: 790px;
+    top: 1400px;
+}
+
+.gridtext5 {
+    position: absolute;
+    top: 1510px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 670px;
+}
+
+.gridtext-5 {
+    position: absolute;
+    top: 1555px;
+    left: 695px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.client {
+    width: 450px;
+    height: 300px;
+    margin: 150px;
+}
+
+.gridimg6 {
+    position: absolute;
+    left: 1278px;
+    top: 1390px;
+}
+
+.gridtext6 {
+    position: absolute;
+    top: 1505px;
+    font-family: 'Roboto';
+    font-size: 33px;
+    color: #26A1E4;
+    left: 1172px;
+}
+
+.gridtext-6 {
+    position: absolute;
+    top: 1553px;
+    left: 1189px;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
